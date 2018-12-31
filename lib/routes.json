@@ -11359,7 +11359,7 @@
           "type": "integer"
         }
       },
-      "url": "/teams/:team_id"
+      "url": "/teams/:team_id/members"
     },
     "getDiscussion": {
       "headers": {
